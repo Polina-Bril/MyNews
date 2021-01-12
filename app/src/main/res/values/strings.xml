@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyNews</string>
+    <string name="category">Select Category</string>
+    <string name="country">Select Country</string>
+</resources>

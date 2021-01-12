@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categoryNames">
+        <item>business</item>
+        <item>entertainment</item>
+        <item>general</item>
+        <item>health</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>technology</item>
+    </string-array>
+    <string-array name="countryNames">
+        be bg br ca ch cn co cu cz de eg fr gb gr hk hu id ie il in it jp kr lt lv ma mx my ng nl no nz ph pl pt ro rs ru sa se sg si sk th tr tw ua us ve za
+        <item>ru</item>
+        <item>us</item>
+        <item>at</item>
+        <item>au</item>
+        <item>be</item>
+        <item>fr</item>
+        <item>br</item>
+        <item>ca</item>
+        <item>ch</item>
+        <item>cn</item><item>br</item>
+        <item>co</item>
+        <item>cu</item>
+        <item>cz</item>
+    </string-array>
+</resources>
